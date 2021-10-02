@@ -1,4 +1,4 @@
-# Ceaser-Cipher-Cryptography-Over-TCP
+# Caesar-Cipher-Cryptography-Over-TCP
 Uses Caesar Cipher encryption to encode and decode data transmitted over a network.
 
 **Details on how to execute code**
